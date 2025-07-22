@@ -395,7 +395,7 @@ nav {
 
 /* media */
 
-@media (max-width: 2000px) {
+@media (max-width: 1600px) {
     html {
         font-size: 80%;
     }
