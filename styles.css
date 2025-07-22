@@ -396,10 +396,9 @@ nav {
 /* media */
 
 @media (min-width: 1400px) {
-  html {
-    font-size: 75%;
-    outline: 2px solid red; /* Pomocná viditelná kontrola, jestli se aplikuje */
-  }
+    html {
+        font-size: 62.5%;
+    }
 }
 
 @media (max-width: 3000px) {
