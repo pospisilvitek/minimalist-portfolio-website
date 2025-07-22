@@ -395,6 +395,12 @@ nav {
 
 /* media */
 
+@media (max-width: 2000px) {
+    html {
+        font-size: 80%;
+    }
+}
+
 @media (max-width: 800px) {
     .nav-links a {
         padding: 0 1rem;
