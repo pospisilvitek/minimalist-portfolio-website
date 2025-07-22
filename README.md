@@ -1,6 +1,6 @@
 ### Minimalist portfolio website
 
-A responsive **portfolio website** built with **pure HTML and CSS** designed to showcase projects, experience and contact information.
+A responsive **portfolio website** built with **pure HTML and CSS** designed to showcase personal projects, experience and contact information.
 
 ---
 
