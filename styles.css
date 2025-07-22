@@ -506,4 +506,8 @@ nav {
         margin: 0.5rem 0.5rem;
         letter-spacing: 0.1rem;
     }
+
+    .footer-nav-links a:last-of-type {
+        margin-bottom: 2rem;
+    }
 }
