@@ -397,13 +397,7 @@ nav {
 
 @media (min-width: 1400px) {
     html {
-        font-size: 62.5%;
-    }
-}
-
-@media (max-width: 3000px) {
-    html {
-        font-size: 90%;
+    font-size: 80%;
     }
 }
 
