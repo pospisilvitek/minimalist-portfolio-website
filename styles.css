@@ -395,12 +395,6 @@ nav {
 
 /* media */
 
-@media (min-width: 1200px) {
-  html {
-    font-size: 75%; /* 12px místo 10px */
-  }
-}
-
 @media (max-width: 800px) {
     .nav-links a {
         padding: 0 1rem;
