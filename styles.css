@@ -395,6 +395,12 @@ nav {
 
 /* media */
 
+@media (min-width: 2000px) {
+    html {
+        font-size: 75%;
+    }
+}
+
 @media (max-width: 800px) {
     .nav-links a {
         padding: 0 1rem;
@@ -508,6 +514,6 @@ nav {
     }
 
     .footer-nav-links a:last-of-type {
-        margin-bottom: 4rem;
+        margin-bottom: 3rem;
     }
 }
