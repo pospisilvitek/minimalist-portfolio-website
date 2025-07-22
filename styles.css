@@ -399,10 +399,6 @@ nav {
     html {
         font-size: 80%;
     }
-
-    .project-img {
-        max-width: 750px;
-    }
 }
 
 @media (max-width: 800px) {
