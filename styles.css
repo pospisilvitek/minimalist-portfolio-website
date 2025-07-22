@@ -397,7 +397,11 @@ nav {
 
 @media (min-width: 1400px) {
     html {
-    font-size: 80%;
+        font-size: 80%;
+    }
+
+    .project-img {
+        max-width: 750px;
     }
 }
 
